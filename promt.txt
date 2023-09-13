@@ -1,0 +1,5 @@
+Как исправить коммит
+git commit --amend --no-edit
+
+Изменить сообщение коммита
+git commit --amend -m
